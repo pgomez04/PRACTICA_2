@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "stdint.h": "c",
+        "include.h": "c",
+        "tm4c1294ncpdt.h": "c",
+        "core_cm4.h": "c"
+    }
+}
